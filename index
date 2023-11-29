@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Webpage</title>
+    <style>
+      /* CSS styles go here */
+      body {
+        background-color: #f2f2f2;
+        font-family: Arial, sans-serif;
+      }
+      h1 {
+        color: #333333;
+      }
+      p {
+        color: #666666;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to My Webpage</h1>
+    <p>This is a sample paragraph.</p>
+    <img src="image.jpg" alt="Sample Image" />
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+    <a href="https://www.example.com">Click me</a>
+  </body>
+</html>
